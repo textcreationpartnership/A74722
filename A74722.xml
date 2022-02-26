@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A further continuance of the Grand politick informer, discovering the wickednesse and mysteries of the present state iniquities on foot about the 14 of September 1653.</title>
+            <author>True friend to the publike interest.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74722</idno>
+            <idno type="STC">Thomason E221_4</idno>
+            <idno type="STC">ESTC R10460</idno>
+            <idno type="EEBO-CITATION">99858843</idno>
+            <idno type="PROQUEST">99858843</idno>
+            <idno type="VID">110902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110902)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 38:E221[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A further continuance of the Grand politick informer, discovering the wickednesse and mysteries of the present state iniquities on foot about the 14 of September 1653.</title>
+                  <author>True friend to the publike interest.</author>
+               </titleStmt>
+               <extent>37-43 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The pagination and signing follow that of "The grand politike informer" by A true friend to the publike interest.</note>
+                  <note>Annotation on Thomason copy: "October 31 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110902:1"/>
+            <pb n="37" facs="tcp:110902:1" rendition="simple:additions"/>
+            <head>A further Continuance of the Grand Poli<g ref="char:EOLhyphen"/>tick Informer, Diſcovering the wickedneſſe and myſteries of the preſent State iniquities on foot about the <hi>14</hi> of September <hi>1653.</hi>
+            </head>
+            <head type="sub">OMNI<g ref="char:V">Ʋ</g>M RER<g ref="char:V">Ʋ</g>M VICESIT<g ref="char:V">Ʋ</g>DO.</head>
+            <p>THe laſt ſheet we gave you a hint of the deſigne and in<g ref="char:EOLhyphen"/>tent of ſome of the poorer wretches, as are very indu<g ref="char:EOLhyphen"/>ſtrious in making a Knife to cut their own throats; we mean in the altering the government of the City of <hi>London:</hi> But firſt for their encouragement, let them conſider, that <hi>Cromwel</hi> maketh uſe but of one ſort of people to do one thing and ſo ſoon as that is done he laieth aſide them, and maketh uſe of another generation: As firſt againſt the Scots, he made ſome inſtrumental, to croſſe their intereſt in the Presbyterians. So ſoon as they had finiſhed, he layeth them aſide: then he made uſe of ſome of the late Parliament, to take off the late Kings head; theſe alſo he layeth aſide, as you ſee in the late Diſolving the Parlia<g ref="char:EOLhyphen"/>ment, judging he hath good reaſon ſo to do (though he maketh uſe of but one ſort of men to commit one ſort of Treaſon) for he knoweth that he that is a Traytor to another truſt will be a Traytor to his truſt that he repoſeth in him. If he ſhould enter<g ref="char:EOLhyphen"/>tain him long in his ſervice would be ſtill expecting favors: but to prevent this he after they have ſweetened their mouths a little he turneth them off and pretendeth inſufficiency; or that they are not holy enough, or ſome other thing: now by this means he ſtrengtheneth his intereſt, for whileſt that they are in im<g ref="char:EOLhyphen"/>ployment they gain riches, and he winketh at them; ſo when he turneth them out of imployment, they muſt ſtil be owners of him and his Tyranny, for in any other change (think they) our e<g ref="char:EOLhyphen"/>ſtates cannot be ſecure, becauſe we have gained them by indi<g ref="char:EOLhyphen"/>rect means; and there is no way like to the taking of Sanctuary under the power of a Tyrant, that is guilty of betraying of truſt, uſurping the ſupream power, who will be ready to ſay if they will not queſtion me for my Treaſons, I will not queſtion them for their Villanies: No further then, for loſſe of place to make
+<pb n="38" facs="tcp:110902:2"/> way for other new Traytors to act their parts on the ſtage: now we ſee what a miſerable thing it is for men ſo readily to contri<g ref="char:EOLhyphen"/>bute their helps or aſſiſtance to raiſe a Tyrant; but it is in hope, that they may riſe in the top of his favor, and be raiſed with him; we hear could tell you many a ſtory, how God doth bring down Tyrants, when they are moſt ſtrong <hi>they become weak, &amp;c.</hi> But as to the changing the government of the City of <hi>London,</hi> its very ſtrongly aggitated, that ſome clothed in red, not Saints clothed in white; Saints ſhould govern the City inſteed of Mayor, Al<g ref="char:EOLhyphen"/>dermen, and Common Councel men, this is ſet on foot and con<g ref="char:EOLhyphen"/>trived by ſome of the City, who have taken the Oath of the City upon their making free; the ſubſtance was <hi>that they ſhould do no<g ref="char:EOLhyphen"/>thing that ſhould be for the hurt of the City of London;</hi> but it may be they ſay, that they did take that Oath with a proviſo <hi>(viz)</hi> if in caſe there came not commands to the contrary from the Cock<g ref="char:EOLhyphen"/>pit, we have too many — think the creatures of <hi>Cromwel</hi>'s favour to be ſufficient diſpenſations to all Oathes and Villanies that can be committed: but he that hath but half an eye might ſee that, the changing of the government, and the ſeizing of the guards of the City of <hi>London</hi> was deſigned when they took away the chains from the ends of the ſtreets, and threw down the forts; ſo when they were thus diſarmed, they put garriſons upon them by and under pretence of preventing malignant deſigns; but un<g ref="char:EOLhyphen"/>der pretences of that and of the pretending to promote the work of the Lord, and ſecuring the intereſt of the Lords people; they <hi>(viz.)</hi> the Lord <hi>Cromwels</hi> intereſt and people; they have devou<g ref="char:EOLhyphen"/>red all our wealth and liberties: but now the deſigne they drive at, in endeavouring to alter the government of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> is to take away all the rights or as much as they can of Ele<g ref="char:EOLhyphen"/>ction in the people; for ſay they, if the government of the City of <hi>London</hi> ſhould be continued by the election of the people, they may elect ſuch as we may not ſtand well aſſured of comply<g ref="char:EOLhyphen"/>ing with us in our Treaſons, and we know that the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> is able to queſtion us, and drive our Army into the ſea, or ſwallow them up at a mouthfull; therefore it is convenient that we (ſay they) ſhould take from them all means poſſible of their unlooſing their bonds, the which if they do, we muſt be bound: Beſides (ſay they) if we can binde the hands of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> we ſhall lead the whole Nation into Captivity, and to that
+<pb n="39" facs="tcp:110902:2"/> end, is a great part of the Army come into the City, and upon their march towards <hi>London</hi> to choſe a Lord Mayor it may be; We ſee that ſaying of <hi>Aratus</hi> to <hi>Philip</hi> of <hi>Macedon</hi> made good in our age; <hi>That Tyrants, Thieves and Robbers make uſe of Arms, Rocks, and Forts, and decree it;</hi> There is nothing as <hi>Papprius Maſ<g ref="char:EOLhyphen"/>ſon</hi> ſaith, <hi>ſo ſacred, which the great Tyrants of this world will not violate if ſome advantage may come unto them thereby.</hi> You ſee it and finde it to be true, that <hi>London</hi> that hath been the fountain and cauſe of the greatneſſe of the Tyrants, now muſt diſrobe her ſelf of her moſt excellent government, that ſhe hath kept un<g ref="char:EOLhyphen"/>violated many hundred years; but if this were all we are in ſuch a condition, that we ſhould account it an happineſſe to be onely ſlaves and no more; but we muſt be miſerable ſlaves: There is another deſigne on foot for wickedneſſe in the highth, the like was never conſpired nor acted by any; nay it would make the worſt in Hell aſhamed, nay we are perſwaded it would make the Devil himſelf bluſh, and yet ſome of our Saints or white De<g ref="char:EOLhyphen"/>vils have that horrid, damnable, and wicked impudence to de<g ref="char:EOLhyphen"/>ſigne that the Records of the Nation ſhould be burned; in this they have many ends: Firſt, that all that hold any Houſes or Land by what little ſoever, when the Records of the Nation are burned, it ſhall be much at the deſcretion of the Judge to award judgment either to the Plaintiffe or Defendant which ſo ever of them is moſt a Saint <hi>alies</hi> an Hypocrite (God forbid that we ſhould ſpeak or open our mouths againſt the good people of God, they we ſay, that profeſſe to the love it, and that do not make uſe of pretences to carry on baſe wicked deſignes) for you muſt aſſure your ſelves that they will provide Judges that ſhall be Conſcience proof, and that will encline much in their judg<g ref="char:EOLhyphen"/>ments to favour thoſe that favour the times: beſides this is the onely way that theſe Iſraelites will come by the goods and lands of the Egyptians at advantage. <hi>John</hi> of <hi>Leydon</hi> required his im<g ref="char:EOLhyphen"/>poſtors and followers to ſeize of all the goods of the wicked, by open force; but theſe are bringing of it home more covertly and obſcurely by theſe pretences, <hi>viz.</hi> To prevent further conteſts and quarrels by ſuits of Law: but if this be brought about, you ſhall have little cauſe to go to law, for you ſhall have nothing to defend by it. Beſides, he that doth hold any thing muſt hold and enjoy it upon their terms, that he muſt live and take the pre<g ref="char:EOLhyphen"/>ſent Tyrants orders for better for worſe; beſides theſe will keep the people more to depend upon the favour of the Tyrants, for
+<pb n="40" facs="tcp:110902:3"/> then they will ſee it to be a thing of neceſſity to comply, for they ſee that upon the leaſt diſtaſte (and they will not be wanting to take occaſion as oft as may) to turn them out of their eſtates: likewiſe this of the burning of the Records is a good deſigne for thoſe that have bad Titles to the Houſes and Land they hold and to thoſe that would cheat Orphants, but the body of the deſign is this, that <hi>Magna Charta</hi> may be no more pleaded, nor the Peti<g ref="char:EOLhyphen"/>tion of Right; neither ſhall the people have the leaſt remain, to put them in minde of their antient Liberty; [and the people may account it a favour to live] and if they will have their cau<g ref="char:EOLhyphen"/>ſes pleaded, it muſt be by friends, or elſe ſuffer you muſt. A third deſigne is that all Societies and meetings ſhall be prohibi<g ref="char:EOLhyphen"/>ted under a pretence of preventing of carrying on of plots and deſignes: and to that end throw down Plays and Bear baiting, and all other paſtimes; we doe not here argue for Plays, we one<g ref="char:EOLhyphen"/>ly ſhow what is deſigned when they pretend reformation. Next they muſt prevent Fairs and Markets, meetings to Hunt and Hawk; what a ſad condition have theſe men brought themſelves too? The Tyrant himſelf that maketh us all ſlaves is but a ſlave himſelf: for he cannot nor dare to go without his guards, he is afraid of his own ſhaddow, when it is his guilty conſcience that puteth him in fear, he calleth about him ſtronger guards, and cri<g ref="char:EOLhyphen"/>eth a plot to colour all: <hi>Pliny</hi> the ſonges in his <hi>Janegyr</hi> to <hi>Trajan,</hi> ſayes that wicked princes makes Arms their ſanctuary, but good Princes make the affections of their people to be their ſanctuary. This deſign of preventing meeting hath already taken in <hi>Ireland,</hi> this was one of the parts that the Tyrant <hi>Dyoniſius</hi> acted to ſe<g ref="char:EOLhyphen"/>cure himſelf in his abominable tyranny, he would not permit the <hi>Syracutians</hi> to meet in friendly and familiar meetings, there<g ref="char:EOLhyphen"/>by the better to prevent the knowing one anothers mindes; for ſaith he, if they know not one anothers minde, they cannot ſo redily put in execution any thing that may be hurtfull to the Tyranny! What a lamentable thing is it, that men ſhould bring themſelves into ſuch a condition, to fear their ſhaddow. Ano<g ref="char:EOLhyphen"/>ther deſigne's on foot, is that under pretence of preventing of the diſarming of the royal party: it is intended to diſarm all the good people of <hi>England,</hi> that they may not be in a capacity to reſiſt the intended tyranny. [Do but remember what freedome you enjoyed (under the Kingly power accompted by our Ty<g ref="char:EOLhyphen"/>rants
+<pb n="41" facs="tcp:110902:3"/> to meet in Arms, and other friendly meetings] We ſhall preſſe it onwards in anſwer to a Letter pretended to be ſent to Mr. <hi>John Lilburn,</hi> where in generall is obſerved nothing but weakneſſe and madneſſe. We find this perſon that entereth the Liſts in this Letter, to be but of a mungril breed: he barketh round the Cage now the Lion is faſt barred therein: we cannot conceive it to be our work to take notice of him, onely we will feel his pulſe, to know of what temper he is of; we find him rightly principled for the intended Tyranny, in the 1. place we will match him with <hi>Julian</hi> the Apoſtate, Who when any of the Chriſtians complained unto him. ſaith he, <hi>Why complain you, your God commandeth you patiently to bear all evils, reproaches and indignities; if one cheek be ſtruk, turn the other.</hi> So ſaith this nameleſs and ſenſeleſſe Authour of this Letter, admit he hath defamed you (meaning Major <hi>Packer</hi> defaming his <hi>Lilburn</hi>) ſaith he, is that Chriſtian like for you to do ſo and ſo, by him, yea, he might as well have ſaid, <hi>John Lilburn,</hi> it is Chriſtian like for thee to ſubmit to God, to the Gaolers, it being the will of the Tyrants, and their earneſt deſire and your duty to ſubmit to the higher powers. Though it be the duty of a Chriſtian to ſub<g ref="char:EOLhyphen"/>mit it to all ſuch things that ſhall be done in oppoſition of that truth which he profeſſeth in the name of Chriſt, yet that doth not bind him up from defending either his life, good name, or Eſtate in a civil reſpect. He hath another expreſſion that ſeem<g ref="char:EOLhyphen"/>eth very ſtrange, wherein he complaineth of Mr. <hi>Lilburns</hi> po<g ref="char:EOLhyphen"/>pularity, and ſaith, that with his clouted ſhoes, blue aprons and private Souldiers, threaten diſturbance, it appeareth ſuddenly what temper this Authour is of: he cannot but know, that the perſons now, whoſe greatneſſe hath been, and will be the cauſe of much trouble: They we ſay, aſcended by popularity to that greatneſſe they now are at, he hath one claw more where hee taketh exceptions at the Subſcription of <hi>John Lil<g ref="char:EOLhyphen"/>burn</hi> in a Letter to <hi>Cromwell,</hi> where he ſubſcribeth him<g ref="char:EOLhyphen"/>ſelf <hi>ſturdy John Lilburne:</hi> ſaith he <hi>The law of</hi> England <hi>hath onely branded beggars and Rogues with the name ſturdy, there<g ref="char:EOLhyphen"/>fore</hi> ſaith he, <hi>you have not to boaſt therein:</hi> he doth not rightly underſtand the meaning of the Law in this point; which is, <hi>that no perſon that is ſturdy or able for imployment ſhould be ſuffered to beg;</hi> for under colour thereof, they committed Robberies, and divers outrages: ſo that impotent men were ſuffered to take an alms, in regard there was not that danger in them, neither could they do much miſchief as 18. <hi>E</hi> 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>c</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>H</hi> 8</p>
+            <pb n="40" facs="tcp:110902:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="41" facs="tcp:110902:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="42" facs="tcp:110902:5"/>
+            <p>Laſtly, ſaith he, it may be that God may ſay, I have afflicted my ſervant <hi>John Lilburn</hi> and he is not yet humbled; we believe that this generation that afflicteth <hi>John Lilburn</hi> God hath ſent as he ſent the Devill to afflict <hi>Job:</hi> ſo hath he ſent them, and ſet them up to be a ſcourge to the Nation as well as to <hi>John Lilburn:</hi> but we have faith to believe that God will alſo caſt them downe. In the next ſheet, we ſhall ſhew you the deſigne that they have to lay aſide Tryals by Juries, and upon it give you our Obſerva<g ref="char:EOLhyphen"/>tions.</p>
+            <p>
+               <hi>Reader,</hi> We deſire thee to be content with the Eratae's that e<g ref="char:EOLhyphen"/>ſcape the preſſe, there are many in the third part of the pollitick Informer, in a caſe of <hi>Lettletons,</hi> eſpecially of eſtates upon condi<g ref="char:EOLhyphen"/>tion, that and the reſt ſhall in the ſixth part be corrected by an Errata; one thing more we would entreat thee not to cenſure the Politick Informer, for inclining either to one faction or another; aſſure thee his principles are right, for a true and juſt government of a Common wealth, by a people repreſentative, annually elect<g ref="char:EOLhyphen"/>ed, as we ſhall plainly demonſtrate in the enſuing works; yet in the former part there may be ſome probable ground to believe he enclineth to monarchy; we aſſure thee he doth not in the leaſt incline to it; but he's of opinion, that no one ought to uſurp ſu<g ref="char:EOLhyphen"/>pream power; neither ought any perſon or perſons to have it above one year: it is not the work of one that undertaketh pol<g ref="char:EOLhyphen"/>litick obſervations to incline any way, but onely to diſcover the reaſons of ſtate, the proper tendencie, the end and aim that theſe corrupt perſons, that have now Uſurped and aſſumed the Su<g ref="char:EOLhyphen"/>pream power to the great detriment of the people of <hi>England:</hi> it was not the way of <hi>Tacitus Live</hi> or of <hi>ſubtacitus tranquillionis,</hi> or any pollitick Hiſtorian to encline to ſpeak or write in favour of either <hi>Galba Otha,</hi> or <hi>Vitellias;</hi> but to unmask and unrobe the ſtate of things, to declare the truth; ſo ſhall it be our work to diſ<g ref="char:EOLhyphen"/>cover the high deſignes on foot, which is to rob and deſtroy the Rights, Priviledges, Eſtates, and Lives of the people of <hi>England;</hi> which we mentioned of the perfidious dealing with the King, was not that we did it in favour of him: we do acknowledge he did deſerve death, but we affirm it ought to have been another way, as is ſhewn in the firſt part of this Work, the Mirror, cap. 1. and Section 2. <hi>Affirmeth that the Kings were ſworn to be ruled and go<g ref="char:EOLhyphen"/>verned by the ſame Law that he ſhould rule and govern by;</hi> we doe not acknowledge that any thing is to rule but Law, in which it may be ſaid God ruleth.</p>
+            <pb n="43" facs="tcp:110902:5" rendition="simple:additions"/>
+            <p>
+               <hi>Reader,</hi> The tumult in <hi>Pauls</hi> Church-yard, Sunday 6 of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> is to be feared was ſet on foot by <hi>Cromwell,</hi> thereby to take an occaſion to queſtion the Lord Mayor, and alter the govern<g ref="char:EOLhyphen"/>ment of the City <hi>[Nero ſet on, fired Rome, and laid it on the Chriſti<g ref="char:EOLhyphen"/>ans; he thereby did puniſh Rome, and took an occaſion to perſecute the Chriſtians]</hi> We ſhall in our next give you our farther thoughts therein, and an accompt how they have laid the plot to do it: that a Colonel may be your Mayor, the Pikes your Al<g ref="char:EOLhyphen"/>dermen, and Muskettiers your Common Councel; we ſhall alſo diſcover to you the dangerouſneſſe, helliſhneſſe, and wickedneſs of the deſigne of the preſent power, in their intended taking a<g ref="char:EOLhyphen"/>way of Foreſt Land, wherein they will deſtroy nigh foure hun<g ref="char:EOLhyphen"/>dred thouſand people of <hi>England,</hi> and after they have ruined them make uſe of them to deſtroy the rich, that thereby they may ſupport themſelves in their Tyranny; though they make uſe of one party to deſtroy another: witneſſe the contention at preſent, betwixt the Citizens of <hi>London</hi> and their Lord Mayor, whoſe year being near expired, denies the delivery of the Collar of Eſſes with the City Plate and Hangings, (but he were much engaged to his Coachman or elſe he had got enough of that) with the reſt of the City goods, which goes from one Mayor to ano<g ref="char:EOLhyphen"/>ther; and this is, as they ſay, becauſe they will not allow him all the mony which two of his Brethren ſhould have had towards their Mayoraldries if they had not laid down their Cloates be<g ref="char:EOLhyphen"/>fore; beſides he had or would have turned out the foure Clerks belonging unto the City; and all this is done by inſtigation from our Grandees at White-hall, who made him put by the tryall of the ſouldier, who ſet the Piſtoll to one of the Sheriffs breaſts the ſixth of <hi>October;</hi> but more of this in the next.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
